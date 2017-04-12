@@ -146,7 +146,7 @@ namespace NCrontab.Advanced.Filters
 
 		private bool IsMatch(int evalValue)
 		{
-			return (evalValue - Start) % Step == 0;
+			return evalValue >= Start && (evalValue - Start) % Step == 0;
 		}
 
 		public override string ToString()
