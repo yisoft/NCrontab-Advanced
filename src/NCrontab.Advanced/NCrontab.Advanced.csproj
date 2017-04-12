@@ -10,7 +10,7 @@
 		<Product>NCrontab.Advanced</Product>
 		<PackageIconUrl>https://yi.team/images/yiteam-logo-64x64.png</PackageIconUrl>
 		<PackageProjectUrl>https://yi.team/</PackageProjectUrl>
-		<PackageLicenseUrl>https://yi.team/packages/license.txt</PackageLicenseUrl>
+		<PackageLicenseUrl>https://raw.githubusercontent.com/yisoft/NCrontab-Advanced/master/LICENSE</PackageLicenseUrl>
 		<Copyright>Copyright © Yi.TEAM. All rights reserved.</Copyright>
 		<PackageTags>cron;ncron;ncrontab;scheduler; jcoutch;yiteam;yisoft</PackageTags>
 		<RepositoryUrl>https://github.com/yisoft/NCrontab-Advanced</RepositoryUrl>
