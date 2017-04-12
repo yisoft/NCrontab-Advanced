@@ -1,1 +1,0 @@
-Icons in this folder are from the [Tango Icon Library project](http://tango.freedesktop.org/Tango_Icon_Library).
