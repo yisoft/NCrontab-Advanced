@@ -1,16 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFrameworks>netcoreapp1.1;net46;net451;net45;net40</TargetFrameworks>
+		<TargetFrameworks>netstandard1.6;net46;net451;net45;net40</TargetFrameworks>
 		<RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
-		<VersionPrefix>1.3.0</VersionPrefix>
+		<VersionPrefix>1.3.1</VersionPrefix>
 		<Description>Cron string parser for .NET</Description>
 		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 		<Authors>jcoutch,ymind.chan@yi.team</Authors>
 		<Product>NCrontab.Advanced</Product>
 		<PackageIconUrl>https://yi.team/images/yiteam-logo-64x64.png</PackageIconUrl>
 		<PackageProjectUrl>https://yi.team/</PackageProjectUrl>
-		<PackageLicenseUrl>https://yi.team/packages/license.txt</PackageLicenseUrl>
+		<PackageLicenseUrl>https://raw.githubusercontent.com/yisoft/NCrontab-Advanced/master/LICENSE</PackageLicenseUrl>
 		<Copyright>Copyright © Yi.TEAM. All rights reserved.</Copyright>
 		<PackageTags>cron;ncron;ncrontab;scheduler; jcoutch;yiteam;yisoft</PackageTags>
 		<RepositoryUrl>https://github.com/yisoft/NCrontab-Advanced</RepositoryUrl>
